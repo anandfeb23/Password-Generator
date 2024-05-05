@@ -3,7 +3,7 @@
 Generate strong and secure passwords with ease! This project provides a user-friendly interface to create passwords tailored to your preferences. 
 
 ## 🚀 Live Demo
-Experience it in action [here](#)!
+Experience it in action [here](https://passgenbyanshu.netlify.app/)!
 
 ## ✨ Features
 - Customize password length
